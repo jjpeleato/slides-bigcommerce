@@ -20,7 +20,7 @@ const paths = {
 		vendor: [
 			'./node_modules/reveal.js/dist/reset.css',
 			'./node_modules/reveal.js/dist/reveal.css',
-			'./node_modules/reveal.js/dist/theme/white.css',
+			'./node_modules/reveal.js/dist/theme/black.css',
 			'./node_modules/reveal.js/plugin/highlight/monokai.css',
 		],
 		dest: theme + 'css/',
