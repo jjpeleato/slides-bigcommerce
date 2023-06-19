@@ -1,10 +1,10 @@
-# Slides: Starter boilerplate
+# Slides: BigCommerce
 
-Short or long description.
+Internal presentation in the company called Numéricco for the BigCommerce technology. Project built with the framework Reveal.js
 
 ## Environment
 
-- LOCAL: http://web.slidesstarter.lndo.site/
+- LOCAL: http://web.bigcommerce.lndo.site/
 - DEV: ~
 - PRE: ~
 - PRO: ~

@@ -1,7 +1,7 @@
 {
-	"name": "slides-starter",
+	"name": "slides-bigcommerce",
 	"version": "0.1.0",
-	"description": "Slides starter boilerplate",
+	"description": "Internal presentation in the company called Numéricco for the BigCommerce technology. Project built with the framework Reveal.js",
 	"keywords": [
 		"reveal.js",
 		"lando",
